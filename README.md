@@ -32,7 +32,6 @@
 
 ### Frameworks
 <p align="left">   
-    &emsp;
   <a href="https://laravel.com/" target="_blank"> 
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   </a>   
